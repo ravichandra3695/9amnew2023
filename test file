@@ -1,2 +1,3 @@
 touch file{1..5}
 touch gggg
+touch aws{1..5}
